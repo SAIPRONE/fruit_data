@@ -48,6 +48,8 @@ Replace `<script_name>` with the name you saved the script as.
 The script uses a dataset named `fruit_data.csv` is just an example, the full dataset can be found at:  [Full_Dataset](https://www.kaggle.com/datasets/moltean/fruits). Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
 
 ## 📈 Outputs
+![3D](https://github.com/SAIPRONE/fruit_data/assets/95390348/6b6cbda7-1875-47a6-addf-f8e93d525280)
+
 1. The first 10 rows of the dataset are displayed.
 2. Shape, unique fruits, dataset description, and number of each fruit type are printed.
 3. A bar graph visualizing the count of each fruit type.
