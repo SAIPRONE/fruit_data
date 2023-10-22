@@ -45,7 +45,7 @@ You can install the required libraries using the following command:
 Replace `<script_name>` with the name you saved the script as.
 
 ### 📊 Dataset
-The script uses a dataset named `fruit_data.csv` is just an example, the full dataset can be found at:  (https://github.com/Horea94/Fruit-Images-Dataset). Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
+The script uses a dataset named `fruit_data.csv` is just an example, the full dataset can be found at:  [Full_Dataset](https://github.com/Horea94/Fruit-Images-Dataset). Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
 
 ## 📈 Outputs
 1. The first 10 rows of the dataset are displayed.
