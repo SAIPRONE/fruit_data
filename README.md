@@ -45,7 +45,7 @@ python fruit_data_classification.py
 Replace `<script_name>` with the name you saved the script as.
 
 ### 📊 Dataset
-The script uses a dataset named `fruit_data_with_colors.txt`. Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
+The script uses a dataset named `fruit_data.csv`. Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
 
 ## 📈 Outputs
 1. The first 10 rows of the dataset are displayed.
