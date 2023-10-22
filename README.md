@@ -33,19 +33,19 @@ This repository contains a Python script that classifies fruits based on their a
   - scikit-learn
 
 You can install the required libraries using the following command:
-`pip install pandas matplotlib seaborn scikit-learn`
+'pip install pandas matplotlib seaborn scikit-learn'
 
 ### 🏃 Running the Script
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the script.
 3. Execute the script using the following command:
 
-`python fruit_data_classification.py`
+'python fruit_data_classification.py'
 
 Replace `<script_name>` with the name you saved the script as.
 
 ### 📊 Dataset
-The script uses a dataset named `fruit_data.csv`. Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
+The script uses a dataset named `fruit_data.csv` is just an example, the full dataset can be found at:  (https://github.com/Horea94/Fruit-Images-Dataset). Ensure this dataset is present in the mentioned path or update the `DATA_PATH` variable in the script with the appropriate location.
 
 ## 📈 Outputs
 1. The first 10 rows of the dataset are displayed.
